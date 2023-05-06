@@ -45,7 +45,7 @@ Para executar este projeto, é necessário ter o Java 17 instalado em sua máqui
 Para executar o projeto, abra o terminal na pasta em que o arquivo .jar foi baixado e execute o seguinte comando:
 
 ```
-java -jar pit_regex-0.0.1-SNAPSHOT.jar
+java -jar pit_regex-0.0.1.jar
 ```
 
 Após executar o comando acima, o servidor será iniciado e o projeto estará disponível na URL `http://localhost:8080`.
